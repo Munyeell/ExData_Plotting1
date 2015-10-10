@@ -1,4 +1,4 @@
-##This is munyeell resubmit for retake.
+##This is Munyeell submitted for retake.
 ## Introduction
 
 This assignment uses data from
